@@ -1,5 +1,3 @@
-#Задача 3
-
 def conv_bin(num: int):
     list_nums = []
 
