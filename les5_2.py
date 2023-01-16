@@ -1,5 +1,3 @@
-#Задача 2
-
 def coding(txt):
     count = 1
     res = ''
