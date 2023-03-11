@@ -40,4 +40,3 @@ public class les2_2 {
         return str.toString();
     }
 }
-
